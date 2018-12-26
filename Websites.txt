@@ -1,0 +1,13 @@
+http://gen.lib.rus.ec/ #For textbook. Just search for isbn number of the book on google and search on it. You will hopefully get book for free :)
+
+https://www.javatpoint.com/python-tutorial
+
+https://www.w3schools.com/python/default.asp
+
+https://www.geeksforgeeks.org/sort-only-non-prime-numbers-of-an-array-in-increasing-order/    #BEST ONINE WEBSITE FOR REFERENCE :)
+
+http://interactivepython.org/runestone/static/thinkcspy/index.html #For online textbook
+
+http://www.pythontutor.com/visualize.html#mode=edit  #INSTANT ONLINE HELP FOR YOUR ASSIGNMENTS. THIS IS THE BEST WEBSITE FOR ASSIGNMENTS TO GET SOLUTIONS FOR YOUR ASSIGNMENTS OR GET HELP ON THE ASSIGNMENTS :)
+
+
